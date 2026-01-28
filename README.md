@@ -2,7 +2,7 @@
 
 # Muhammad Talha Javed
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=AI+Engineer+%26+Full+Stack+Developer;Building+the+future+of+education;Computer+Engineer+from+UET+Lahore" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=45&lines=AI+Engineer+%26+Full+Stack+Developer;Building+the+future+of+education;Computer+Engineer+from+UET+Lahore" alt="Typing SVG" /></a>
 
 I build intelligent systems that solve real problems — from AI-powered learning platforms to computer vision applications.
 
