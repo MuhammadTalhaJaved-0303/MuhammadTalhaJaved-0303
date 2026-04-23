@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=45&lines=AI+Engineer+%26+Full+Stack+Developer;Building+the+future+of+education;Computer+Engineer+from+UET+Lahore" alt="Typing SVG" /></a>
 
-I build intelligent AI Agent & systems that solve real problems from AI-powered learning platforms to computer vision applications.
+I build intelligent AI Agent & system that solve real problems from AI-powered learning platforms to computer vision applications.
 
 [![Website](https://img.shields.io/badge/skill2success.com-000?style=flat&logo=safari&logoColor=white)](https://www.skill2success.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadtalhajaved0303)
